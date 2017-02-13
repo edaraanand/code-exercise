@@ -1,3 +1,4 @@
+
 # RFA Code Exercise
 This exercise involves improving a fictional subset of a Ruby on Rails 5.x application.  It only contains a model, controller, and two views.
 
